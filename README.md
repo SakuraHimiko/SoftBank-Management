@@ -1,11 +1,8 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://play-lh.googleusercontent.com/f_Tvd1TwN4cypywYY2m-muvrzskLeCwOPBdW38lZzIN_eU86ByShaqRNUGBu2TyXVPA" width="200" alt="Nest Logo" /></a>
 </p>
 
-[circleci-image]: [https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456](https://img.shields.io/badge/Donate-PayPal-ff3f59.svg)
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">A progressive <a href="https://softbank.jp" target="_blank">Trapify</a> For future!!</p>
     <p align="center">
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
